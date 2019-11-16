@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SrchDlg</class>
+ <widget class="QDialog" name="SrchDlg">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>915</width>
+    <height>655</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>SrchDlg</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_3">
+   <item row="0" column="0">
+    <widget class="QGroupBox" name="groupBoxSearch">
+     <property name="font">
+      <font>
+       <pointsize>10</pointsize>
+       <weight>75</weight>
+       <bold>true</bold>
+      </font>
+     </property>
+     <property name="title">
+      <string/>
+     </property>
+     <layout class="QGridLayout" name="gridLayout_4">
+      <item row="0" column="0" colspan="3">
+       <layout class="QGridLayout" name="gridLayout">
+        <item row="0" column="0">
+         <widget class="QGroupBox" name="groupBox_3">
+          <property name="font">
+           <font>
+            <pointsize>8</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="title">
+           <string/>
+          </property>
+          <layout class="QGridLayout" name="gridLayout_2">
+           <item row="0" column="0">
+            <layout class="QHBoxLayout" name="horizontalLayout_6">
+             <item>
+              <layout class="QHBoxLayout" name="horizontalLayout_7">
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_1"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_2"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_3"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_4"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_5"/>
+               </item>
+              </layout>
+             </item>
+             <item>
+              <widget class="QComboBox" name="comboBox_1">
+               <property name="styleSheet">
+                <string notr="true"/>
+               </property>
+               <item>
+                <property name="text">
+                 <string>White</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Red</string>
+                </property>
+                <property name="icon">
+                 <iconset theme="Red">
+                  <normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</iconset>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Yellow</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cyan</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Violet</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Purple</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Magenta</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Lavender</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Gray</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Green</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Blue</string>
+                </property>
+               </item>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QGroupBox" name="groupBox_7">
+          <property name="font">
+           <font>
+            <pointsize>8</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="title">
+           <string/>
+          </property>
+          <layout class="QGridLayout" name="gridLayout_5">
+           <item row="0" column="0">
+            <layout class="QHBoxLayout" name="horizontalLayout_8">
+             <item>
+              <layout class="QHBoxLayout" name="horizontalLayout_9">
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_6"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_7"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_8"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_9"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_10"/>
+               </item>
+              </layout>
+             </item>
+             <item>
+              <widget class="QComboBox" name="comboBox_2">
+               <property name="styleSheet">
+                <string notr="true"/>
+               </property>
+               <item>
+                <property name="text">
+                 <string>White</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Red</string>
+                </property>
+                <property name="icon">
+                 <iconset theme="Red">
+                  <normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</iconset>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Yellow</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cyan</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Violet</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Purple</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Magenta</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Lavender</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Gray</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Green</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Blue</string>
+                </property>
+               </item>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="2" column="0">
+         <widget class="QGroupBox" name="groupBox_4">
+          <property name="font">
+           <font>
+            <pointsize>8</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="title">
+           <string/>
+          </property>
+          <layout class="QGridLayout" name="gridLayout_6">
+           <item row="0" column="0">
+            <layout class="QHBoxLayout" name="horizontalLayout_10">
+             <item>
+              <layout class="QHBoxLayout" name="horizontalLayout_11">
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_11"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_12"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_13"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_14"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_15"/>
+               </item>
+              </layout>
+             </item>
+             <item>
+              <widget class="QComboBox" name="comboBox_3">
+               <property name="styleSheet">
+                <string notr="true"/>
+               </property>
+               <item>
+                <property name="text">
+                 <string>White</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Red</string>
+                </property>
+                <property name="icon">
+                 <iconset theme="Red">
+                  <normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</iconset>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Yellow</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cyan</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Violet</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Purple</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Magenta</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Lavender</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Gray</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Green</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Blue</string>
+                </property>
+               </item>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="3" column="0">
+         <widget class="QGroupBox" name="groupBox_8">
+          <property name="font">
+           <font>
+            <pointsize>8</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="title">
+           <string/>
+          </property>
+          <layout class="QGridLayout" name="gridLayout_7">
+           <item row="0" column="0">
+            <layout class="QHBoxLayout" name="horizontalLayout_12">
+             <item>
+              <layout class="QHBoxLayout" name="horizontalLayout_13">
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_16"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_17"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_18"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_19"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_20"/>
+               </item>
+              </layout>
+             </item>
+             <item>
+              <widget class="QComboBox" name="comboBox_4">
+               <property name="styleSheet">
+                <string notr="true"/>
+               </property>
+               <item>
+                <property name="text">
+                 <string>White</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Red</string>
+                </property>
+                <property name="icon">
+                 <iconset theme="Red">
+                  <normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</iconset>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Yellow</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cyan</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Violet</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Purple</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Magenta</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Lavender</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Gray</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Green</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Blue</string>
+                </property>
+               </item>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="4" column="0">
+         <widget class="QGroupBox" name="groupBox_10">
+          <property name="font">
+           <font>
+            <pointsize>8</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="title">
+           <string/>
+          </property>
+          <layout class="QGridLayout" name="gridLayout_8">
+           <item row="0" column="0">
+            <layout class="QHBoxLayout" name="horizontalLayout_18">
+             <item>
+              <layout class="QHBoxLayout" name="horizontalLayout_19">
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_21"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_22"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_23"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_24"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_25"/>
+               </item>
+              </layout>
+             </item>
+             <item>
+              <widget class="QComboBox" name="comboBox_5">
+               <property name="styleSheet">
+                <string notr="true"/>
+               </property>
+               <item>
+                <property name="text">
+                 <string>White</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Red</string>
+                </property>
+                <property name="icon">
+                 <iconset theme="Red">
+                  <normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</iconset>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Yellow</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cyan</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Violet</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Purple</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Magenta</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Lavender</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Gray</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Green</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Blue</string>
+                </property>
+               </item>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="5" column="0">
+         <widget class="QGroupBox" name="groupBox_11">
+          <property name="font">
+           <font>
+            <pointsize>8</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="title">
+           <string/>
+          </property>
+          <layout class="QGridLayout" name="gridLayout_13">
+           <item row="0" column="0">
+            <layout class="QHBoxLayout" name="horizontalLayout_20">
+             <item>
+              <layout class="QHBoxLayout" name="horizontalLayout_21">
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_26"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_27"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_28"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_29"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_30"/>
+               </item>
+              </layout>
+             </item>
+             <item>
+              <widget class="QComboBox" name="comboBox_6">
+               <property name="styleSheet">
+                <string notr="true"/>
+               </property>
+               <item>
+                <property name="text">
+                 <string>White</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Red</string>
+                </property>
+                <property name="icon">
+                 <iconset theme="Red">
+                  <normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</iconset>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Yellow</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cyan</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Violet</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Purple</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Magenta</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Lavender</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Gray</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Green</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Blue</string>
+                </property>
+               </item>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="6" column="0">
+         <widget class="QGroupBox" name="groupBox_5">
+          <property name="font">
+           <font>
+            <pointsize>8</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="title">
+           <string/>
+          </property>
+          <layout class="QGridLayout" name="gridLayout_9">
+           <item row="0" column="0">
+            <layout class="QHBoxLayout" name="horizontalLayout_16">
+             <item>
+              <layout class="QHBoxLayout" name="horizontalLayout_17">
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_31"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_32"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_33"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_34"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_35"/>
+               </item>
+              </layout>
+             </item>
+             <item>
+              <widget class="QComboBox" name="comboBox_7">
+               <property name="styleSheet">
+                <string notr="true"/>
+               </property>
+               <item>
+                <property name="text">
+                 <string>White</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Red</string>
+                </property>
+                <property name="icon">
+                 <iconset theme="Red">
+                  <normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</iconset>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Yellow</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cyan</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Violet</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Purple</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Magenta</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Lavender</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Gray</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Green</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Blue</string>
+                </property>
+               </item>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="7" column="0">
+         <widget class="QGroupBox" name="groupBox_9">
+          <property name="font">
+           <font>
+            <pointsize>8</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="title">
+           <string/>
+          </property>
+          <layout class="QGridLayout" name="gridLayout_12">
+           <item row="0" column="0">
+            <layout class="QHBoxLayout" name="horizontalLayout_14">
+             <item>
+              <layout class="QHBoxLayout" name="horizontalLayout_15">
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_36"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_37"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_38"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_39"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_40"/>
+               </item>
+              </layout>
+             </item>
+             <item>
+              <widget class="QComboBox" name="comboBox_8">
+               <property name="styleSheet">
+                <string notr="true"/>
+               </property>
+               <item>
+                <property name="text">
+                 <string>White</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Red</string>
+                </property>
+                <property name="icon">
+                 <iconset theme="Red">
+                  <normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</iconset>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Yellow</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cyan</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Violet</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Purple</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Magenta</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Lavender</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Gray</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Green</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Blue</string>
+                </property>
+               </item>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="8" column="0">
+         <widget class="QGroupBox" name="groupBox_21">
+          <property name="font">
+           <font>
+            <pointsize>8</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="title">
+           <string/>
+          </property>
+          <layout class="QGridLayout" name="gridLayout_10">
+           <item row="0" column="0">
+            <layout class="QHBoxLayout" name="horizontalLayout_40">
+             <item>
+              <layout class="QHBoxLayout" name="horizontalLayout_41">
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_41"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_42"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_43"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_44"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_45"/>
+               </item>
+              </layout>
+             </item>
+             <item>
+              <widget class="QComboBox" name="comboBox_9">
+               <property name="styleSheet">
+                <string notr="true"/>
+               </property>
+               <item>
+                <property name="text">
+                 <string>White</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Red</string>
+                </property>
+                <property name="icon">
+                 <iconset theme="Red">
+                  <normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</iconset>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Yellow</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cyan</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Violet</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Purple</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Magenta</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Lavender</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Gray</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Green</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Blue</string>
+                </property>
+               </item>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+        <item row="9" column="0">
+         <widget class="QGroupBox" name="groupBox_20">
+          <property name="font">
+           <font>
+            <pointsize>8</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="title">
+           <string/>
+          </property>
+          <layout class="QGridLayout" name="gridLayout_11">
+           <item row="0" column="0">
+            <layout class="QHBoxLayout" name="horizontalLayout_38">
+             <item>
+              <layout class="QHBoxLayout" name="horizontalLayout_39">
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_46"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_47"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_48"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_49"/>
+               </item>
+               <item>
+                <widget class="QLineEdit" name="lineEditAnd_50"/>
+               </item>
+              </layout>
+             </item>
+             <item>
+              <widget class="QComboBox" name="comboBox_10">
+               <property name="styleSheet">
+                <string notr="true"/>
+               </property>
+               <item>
+                <property name="text">
+                 <string>White</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Red</string>
+                </property>
+                <property name="icon">
+                 <iconset theme="Red">
+                  <normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</normaloff>../../../../../builder/c++/LogWatcher/LogWatcher_v1_1_9_8_9/LogWatcher_v1</iconset>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Yellow</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Cyan</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Violet</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Purple</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Magenta</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Lavender</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Gray</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Green</string>
+                </property>
+               </item>
+               <item>
+                <property name="text">
+                 <string>Blue</string>
+                </property>
+               </item>
+              </widget>
+             </item>
+            </layout>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="0" column="3">
+       <widget class="QLabel" name="label">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="0">
+       <spacer name="horizontalSpacer_2">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>717</width>
+          <height>17</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="1" column="1">
+       <widget class="QPushButton" name="pushButtonSearch">
+        <property name="font">
+         <font>
+          <pointsize>10</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="text">
+         <string>SEARCH</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

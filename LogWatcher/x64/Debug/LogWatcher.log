@@ -1,0 +1,9 @@
+﻿  Core.cpp
+  FileData.cpp
+  LogWatcher.cpp
+  StreamPartFileAnalyz.cpp
+  StreamPartFileReader.cpp
+  StreamPartFileSearcher.cpp
+  main.cpp
+  moc_LogWatcher.cpp
+  LogWatcher.vcxproj -> D:\builder\c++\LogWatcher\64bit Version\v1.6\LogWatcher\x64\Debug\LogWatcher.exe
