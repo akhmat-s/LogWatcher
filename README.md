@@ -18,4 +18,4 @@ Part of the analysis:
 2. A local database is created to store information describing the problem and methods for fixing/circumventing it.
 3. The visual output of known problems of problems in the log.
 
-![Image alt]![Image alt](https://https://github.com/ZeroCode999/LogWatcher/blob/master/LogWatcher/LogWatcher.png)
+![Image alt](https://https://github.com/ZeroCode999/LogWatcher/blob/master/LogWatcher/LogWatcher.png)
